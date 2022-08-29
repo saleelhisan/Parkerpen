@@ -1,0 +1,349 @@
+.menubanner{
+    background-color: #343a40;
+    display: flex;
+    width: 100%;
+    height: 65px;
+    /*position: fixed;*/
+    margin-top: -8px;
+}
+.parkerimage{
+    width: 30%;
+    height: 65px;
+    cursor: pointer;
+    background-color: #343a40;   
+}
+
+   
+#searchbarid{
+    width: 364px;
+    padding: 14px;
+    box-sizing: border-box;
+}
+#searchbutton{
+    margin-top: 19px;
+    margin-left: -29px;
+}
+#searchbutton:hover{
+    transform: scale(1.11);
+
+}
+#supportw{
+    cursor: pointer;
+    margin-top: 0px;
+    margin-left: -3px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: white;
+}
+#supportw:hover{
+    transform: scale(1.2);
+}
+
+.support{
+    margin-left: 388px;
+}
+#supportb{
+   margin-top: 8px; 
+   filter: invert(100%); 
+   color-scheme: white;
+}
+.secondbar{
+    height: 30px;
+    margin-top: 8px;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+#collection:hover{
+    text-decoration: underline;
+    text-decoration-color: grey;
+    cursor: pointer;
+} 
+#collection{
+    background: white;
+    border: none;
+    margin-left: 345px;
+}
+#pengift{
+    background: white;
+    border: none;
+    margin-left: 10px;
+}
+#pengift:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: grey;
+} 
+#inks{
+    background: white;
+    border: none;
+    margin-left: 10px;
+}
+#inks:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: grey;
+} 
+#writing{
+    background: white;
+    border: none;
+    margin-left: 10px;
+}
+#writing:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: grey;
+} 
+#world{
+    background: white;
+    border: none;
+    margin-left: 10px;
+}
+#world:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: grey;
+} 
+#pencare{
+    background: white;
+    border: none;
+    margin-left: 10px;
+}
+#pencare:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: grey;
+} 
+
+#imageicon{
+    position: relative; left: 95px; top: 10px;
+    
+}
+
+.third{
+    width: 100%;
+    display: flex;
+}
+#queens{
+    font-family: gotham,sans-serif;
+    margin-left: -1182px;
+    margin-top: 157px;
+    color: white;
+    font-size: 3rem;
+}
+.discover1{
+    cursor: pointer;
+    margin-left: -1185px;
+    margin-top: 291px;
+    color: black;
+    background: white;
+    border: none;
+    padding: 15px 45px;
+    width: 179px;
+    height: 48px 
+    
+}
+.discover1:hover{
+    background: rgb(195, 196, 198);
+}
+.fourth{
+    width: 100%;
+    display: flex;
+}
+.image{
+    width: 50%;
+}
+.writings{
+    width: 50%;
+}
+.heading{
+    margin-left: 164px;
+    margin-top: 160px;
+    font-family: gotham,sans-serif;
+    font-size: 2.25rem;
+}
+.writing{
+    margin-top: -26px;
+    margin-left: 166px;
+    font-family: roboto-regular,sans-serif;
+}
+.discoverbutton{
+  cursor: pointer;  
+  margin-top: 11px;
+  margin-left: 166px;
+  background-color: #343a40;
+  border: none;
+  color: white;
+  padding: 15px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.discoverbutton:hover{
+    background: #000;
+}
+.trans{
+    margin-top: -496px;
+    position: absolute;
+    width: 1263px;
+    height: 496px;
+    background: rgba(0, 0, 0, 0.5);
+
+}
+.headingtranse{
+    margin-top: -349px;
+    margin-left: 98px;
+    font-family: gotham,sans-serif;
+    position: absolute;
+    font-size: 3rem;
+    color: white;
+}
+.writingtranse{
+    margin-top: -283px;
+    margin-left: 93px;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    position: absolute;
+    font-family: sans-serif;
+    color: white;
+}
+
+.discoverb2:hover{
+    background: rgb(189, 189, 192);
+}
+.discoverb2{
+    cursor: pointer;
+    margin-top: -203px;
+    margin-left: 94px;
+    position: absolute;
+    width: 180px;
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+#parkerpen{
+    font-family: sans-serif;
+    font-size: 1.6rem;
+}
+#description{
+    margin-left: 328px;
+    margin-top: -56px;
+    text-align: center;
+    height: 173px;
+    width: 636px;
+    font-size: 1rem;
+    font-family: roboto-regular,sans-serif;
+}
+#back:hover{
+    text-decoration: underline;
+}
+#back{
+    cursor: pointer;
+    font-family: roboto-regular,sans-serif,sans-serif;
+    color: #3b3c43;
+    font-size: 1rem ;
+}
+.arrowup{
+    color: #000;
+    width: 10px;
+    height: 10px;  
+}
+#searchlast{
+    margin-left: 100px;
+    width: 270px;
+    height: 47px;
+}
+#signupbutton:hover{
+    background: #000;
+}
+#signupbutton{
+    margin-left: -32px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    background:#3b3c43;
+    height: 50px;
+    cursor: pointer;
+    padding: 15px 32px;
+    font-size: 16px;
+}
+#bysubmitting{
+    font-size: 0.75rem;
+    font-family: roboto-regular,sans-serif;
+    letter-spacing: normal;
+    line-height: 1.5;
+    margin-left: 99px;    
+}
+.icons:hover{
+    transform: scale(1.12);
+}
+.icons{
+    cursor: pointer;
+    height: 45px;
+    width: 45px;
+}
+#logos{
+    margin-right: 100px;
+    margin-top: -117px;
+    float: right;
+}
+table{
+    font-family: gotham,sans-serif;
+    border-collapse: collapse;
+    width: 1080px;
+    margin-left: 170px;
+}
+td{
+    font-weight: lighter;
+    font-size: 0.78rem;
+    border: none;
+    text-align: left;
+    padding: 10px;
+}
+th{
+    border: none;
+    font-size: 1rem;
+    font-weight: lighter;
+    text-align: left;
+    padding: 10px;
+}
+.footerend{
+    display: flex;
+    margin-left: 181px;
+}  
+.copy-text{
+   margin-left: 38px;
+   margin-top: 13px;
+   font-family:  roboto-regular,sans-serif,sans-serif;
+   font-size: 11px;
+}
+#us{
+    cursor: pointer;
+    height: 20px;
+    width: 30px;
+    margin-top: 9px;
+    margin-left: 535px;
+}
+#us2{
+    cursor: pointer;
+    font-size: 13px;
+    font-family: roboto-regular,sans-serif,sans-serif;
+    margin-left: 8px;
+    margin-top: 12px;
+}
+#downarrow:hover{
+    transform: scale(1.2);
+}
+#downarrow{
+    cursor: pointer;
+    height: 10px;
+    margin-top: 15px;
+    margin-left: 8px;
+}
